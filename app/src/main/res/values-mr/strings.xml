@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ਕੁਇਜ਼_ਅਸਾਈਨਮੈਂਟ</string>
+    <string name="action_getAverage">ਔਸਤ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+    <string name="action_select_question">ਸਵਾਲ ਦੀ ਗਿਣਤੀ ਚੁਣੋ</string>
+    <string name="action_reset_result">ਸੰਗ੍ਰਹਿਤ ਨਤੀਜੇ ਰੀਸੈੱਟ ਕਰੋ</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">ਪਹਿਲਾ ਟੁਕੜਾ</string>
+    <string name="second_fragment_label">ਦੂਜਾ ਟੁਕੜਾ</string>
+    <string name="next">ਅੱਗੇ</string>
+    <string name="txt_true">ਸਹੀ</string>
+    <string name="txt_false">ਝੂਠਾ</string>
+    <string name="question1">ਥੈਨੋਸ ਨੇ ਐਵੰਜਰਸ ਨੂੰ ਐਂਡਗੇਮ ਵਿੱਚ ਹਰਾਇਆ ਸੀ</string>
+    <string name="question2">ਧਰਤੀ ਚਪੇਰੀ ਹੈ</string>
+    <string name="question3">ਬੁਗਾਟੀ ਦੁਨਿਆ ਦੀ ਸਭ ਤੋਂ ਵੇਗ ਵਾਲੀ ਕਾਰ ਹੈ</string>
+    <string name="question4">ਆਈਰਨ ਮੈਨ ਮਾਰਵਲ ਦੀ ਪਹਿਲੀ ਫਿਲਮ ਸੀ</string>
+    <string name="question5">ਹੋਵਰਡ ਸਟਾਰਕ, ਟੋਨੀ ਸਟਾਰਕ ਦੇ ਪਿਤਾ ਨੇ ਕੈਪਟਨ ਅਮੇਰੀਕਾ ਲਈ ਢਾਲ ਬਣਾਈ ਸੀ</string>
+    <string name="question6">ਕੀ ਟੋਨੀ ਸਟਾਰਕ ਨੇ ਆਪਣੇ ਆਰਕ ਰੀਐਕਟਰ ਨੂੰ ਬਦਲ ਦਿੱਤਾ ਸੀ</string>
+    <string name="question7">ਜਸਟਿਸ ਲੀਗ ਐਵੰਜਰਸ ਤੋਂ ਵਧੀਆ ਹੈ</string>
+    <string name="question8">ਸਟੀਵ ਜੌਬਸ ਇੱਕਲੇ ਐਪਲ ਨੂੰ ਬਣਾਉਣ ਵਾਲੇ ਨੇ</string>
+    <string name="previous">ਪਿਛਲਾ</string>
+    <string name="hello_first_fragment">ਸਤ ਸ੍ਰੀ ਅਕਾਲ ਪਹਿਲਾ ਟੁਕੜਾ</string>
+    <string name="hello_second_fragment">ਸਤ ਸ੍ਰੀ ਅਕਾਲ ਦੂਜਾ ਟੁਕੜਾ। Arg: %1$s</string>
+    <string name="txt_question">ਟੋਨੀ ਸਟਾਰਕ ਸਭ ਤੋਂ ਵਧੀਆ ਹੈ</string>
+    <string name="add_question">ਸਵਾਲਾਂ ਦੀ ਗਿਣਤੀ ਘੱਟੋ ਘੱਟ ਕੀਤੀ ਜਾਵੇ</string>
+    <string name="action_select_language">ਭਾਸ਼ਾ ਚੁਣੋ</string>
+    <string name="message_average">ਤੁਹਾਡੀਆਂ ਸਹੀ ਜਵਾਬਾਂ / ਸਾਰੇ ਸਵਾਲਾਂ ਦੀ ਗਿਣਤੀ =</string>
+    <string name="ok">ਠੀਕ ਹੈ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="english">ਅੰਗਰੇਜ਼ੀ</string>
+    <string name="marathi">ਪੰਜਾਬੀ</string>
+    <string name="invalidNumber">ਅਵੈਧ ਇਨਪੁੱਟ। ਕਿਰਪਾ ਕਰਕੇ ਵੈਧ ਨੰਬਰ ਦਾਖਲ ਕਰੋ।</string>
+    <string name="result">ਨਤੀਜਾ</string>
+    <string name="your_result">ਤੁਹਾਡਾ ਨਤੀਜਾ ਹੈ:</string>
+    <string name="out_of">ਵਿੱਚੋਂ</string>
+    <string name="save">ਸੰਭਾਲੋ</string>
+    <string name="ignore">ਅਣਡਿੱਠ</string>
+    <string name="enter_question">ਸਵਾਲ ਘੱਟੋ ਘੱਟ 8 ਦਾਖਲ ਕਰੋ</string>
+</resources>

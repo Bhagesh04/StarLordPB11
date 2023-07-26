@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Quiz_Assignment</string>
+    <string name="action_getAverage">Get The Average</string>
+    <string name="action_select_question">Select the number of Question</string>
+    <string name="action_reset_result">Reset the saved Result</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="txt_true">True</string>
+    <string name="txt_false">False</string>
+    <string name="question1">Thanos Defeated Avengers in Endgame</string>
+    <string name="question2">Earth is Flat</string>
+    <string name="question3">Buggati is the Fastest Car in the World</string>
+    <string name="question4">Iron Man was First Film in Marvel</string>
+    <string name="question5">Howard Stark,Tony Starks Father Created the Sheild for Captain America</string>
+    <string name="question6">Did Tony Stark Replaced His Arc Reactor</string>
+    <string name="question7">Justice League is Better than Avengers</string>
+    <string name="question8">Steve Jobs was the only one to create APPlE </string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="txt_question">Tony Stark is the best</string>
+    <string name="add_question">Enter the number of question less than</string>
+    <string name="action_select_language">Select Language</string>
+    <string name="message_average">Your Correct Answers / Total number of Questions=</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="english">English</string>
+    <string name="marathi">Punjabi</string>
+    <string name="invalidNumber">"Invalid input. Please enter a valid number.</string>
+    <string name="result">Result</string>
+    <string name="your_result"> Your Result is :  </string>
+    <string name="out_of"> Out Of  </string>
+    <string name="save">SAVE</string>
+    <string name="ignore">IGNORE</string>
+    <string name="enter_question">Enter Question Which are lesss than 8</string>
+</resources>
